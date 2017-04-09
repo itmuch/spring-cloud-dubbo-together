@@ -15,7 +15,6 @@
 
   <modules>
     <module>spring-boot-dubbo-sample</module>
-    <module>microservice-discovery-eureka</module>
     <module>microservice-consumer-movie</module>
   </modules>  
 </project>
