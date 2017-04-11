@@ -74,12 +74,27 @@ p.s. 这里并没有贬低Dubbo的意思，仅是按照该场景讨论。
 
 
 
+
+## GOING FAR
+
+本项目中几个Demo中，都是手动编码为Dubbo应用开放RESTful API的，实际迁移过程可以借助cglib或者lombok之类的工具，实现从Dubbo接口道RESTful API的转换。本仓库主要还是为大家提供思路，不做具体讨论。
+
+
+
+
+
+
 ## 四、广告
 
-* 实体书《Spring Cloud与Docker微服务架构实战》地址：
-  * 京东自营（不定期有货，可以点到货通知）：<https://item.jd.com/12168358.html>
-  * 互动出版网（预售）：<http://product.china-pub.com/5503053>
-  * 京东云聚算（预售）：<https://item.jd.com/11882655124.html>
+* 实体书《Spring Cloud与Docker微服务架构实战》上线啦！
+
+  * **京东购书链接**
+
+  ![京东购书链接](jd-购书链接.png)
+
+  * **亚马逊购书链接**：
+
+    ![](amz-购书链接.jpg)
 
 * 实体书配套代码：<http://www.itmuch.com/advertisment/my-spring-book-code/>
 
