@@ -83,8 +83,10 @@ p.s. 这里并没有贬低Dubbo的意思，仅是按照该场景讨论。
 
 
 
-
 ## 四、广告
+
+* Spring Cloud QQ交流群：**564840207**、157525002（已满）
+
 
 * 实体书《Spring Cloud与Docker微服务架构实战》上线啦！
 
@@ -100,10 +102,10 @@ p.s. 这里并没有贬低Dubbo的意思，仅是按照该场景讨论。
 
 * 个人博客：<http://www.itmuch.com>
 
-* 社区公众号：
-
-  ![](http://xujin.org/images/gzh.jpg)
-
 * 个人公众号：
 
-  ![](https://static.oschina.net/uploads/space/2017/0211/143928_MqPT_2248449.jpg)
+  ![](个人公众号.jpg)
+
+* Spring Cloud中国社区公众号：
+
+  ![](社区公众号.jpg)
