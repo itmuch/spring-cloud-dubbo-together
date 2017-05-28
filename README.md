@@ -94,10 +94,6 @@ p.s. 这里并没有贬低Dubbo的意思，仅是按照该场景讨论。
 
   ![京东购书链接](jd-购书链接.png)
 
-  * **亚马逊购书链接**：
-
-    ![](amz-购书链接.jpg)
-
 * 实体书配套代码：<http://www.itmuch.com/advertisment/my-spring-book-code/>
 
 * 个人博客：<http://www.itmuch.com>
@@ -105,7 +101,3 @@ p.s. 这里并没有贬低Dubbo的意思，仅是按照该场景讨论。
 * 个人公众号：
 
   ![](个人公众号.jpg)
-
-* Spring Cloud中国社区公众号：
-
-  ![](社区公众号.jpg)
